@@ -1,0 +1,33 @@
+footer {
+    background-color: $color4;
+    margin-top: 60px;
+    padding-top: 51px;
+    padding-bottom: 51px;
+    color: $main-color;
+
+    ul {
+        margin-bottom: 30px;
+        li {
+            margin-bottom: 15px;
+
+            a {
+                font-size: $font21;
+
+            }
+        }
+    }
+.logo-footer{
+    margin-bottom: 30px;
+}
+    .whatsapp {
+        padding-top: 52px;
+        img {
+            display: inline-block;
+            margin-left: 20px;
+        }
+
+        p {
+            display: inline-block;
+        }
+    }
+}
